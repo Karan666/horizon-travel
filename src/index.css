@@ -1,0 +1,52 @@
+h1 {
+  color: #34495e;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.main {
+  color: #34495e;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.footer {
+  color: #7f8c8d;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.hotel-card {
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.hotel-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12) !important;
+}
+
+.hotel-card .card-img-top {
+  transition: transform 0.4s ease;
+}
+
+.hotel-card:hover .card-img-top {
+  transform: scale(1.05);
+}
+
+.form-select option {
+  background-color: #212529;
+  color: white;
+}
+
+.card {
+  background-color: #1e1e1e !important;
+}
