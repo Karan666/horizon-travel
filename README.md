@@ -1,6 +1,3 @@
-# horizon-travel
-Horizon — a React travel website for discovering handpicked hotels, managing favorites, reading destination blogs, and learning about the team behind seamless travel experiences.
-
 # Horizon
 
 A modern travel platform built with React that helps users discover extraordinary stays around the world. Browse curated hotels, save favorites, read travel blogs, and learn about the team behind Horizon.
